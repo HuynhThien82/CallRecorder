@@ -1,0 +1,4 @@
+linkedlist đặc điểm
+search trong array -> độ phức tạp
+sắp xếp độ phức tạp tăng dần của linkedlist, tree, hashtable,
+ưu điểm của linkedlist so với array
